@@ -7,7 +7,7 @@ misoWrapper.py provides a minimal higher-level wrapper around MISO (Mixture of I
 #Usage
 ##Basic Usage
 
-After the python packages have been downloaded and MISO has been locally installed, we can envoke the run MISO command by simply typing:
+After the python packages have been downloaded and MISO has been locally installed, we can evoke the run MISO command by simply typing:
 
 ```bash
 1) Use MISO to quantitate psi values: 
